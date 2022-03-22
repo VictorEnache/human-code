@@ -13,7 +13,7 @@
                 <mxCell id="28" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="21" target="22">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="dicchiaro un elenco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="21" value="dicchiaro un elenco dei regali possibili" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="340" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="70" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="63">
@@ -33,7 +33,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="è nella lista?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="23" value="è nell'elenco delle possibilità?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="325" y="630" width="150" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="24" target="25">
@@ -75,7 +75,7 @@
                 <mxCell id="49" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="26" target="47">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="viene conse domani?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="26" value="viene consegnato domani?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="330" y="960" width="140" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="23">
@@ -140,7 +140,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="53" value="prendo&amp;nbsp; un elemnto dall' elenco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="53" value="prendo&amp;nbsp; un elemnto dall' elenco delle possibilità" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="500" y="330" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="61" value="Comprare il regalo perfetto su amazon" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
